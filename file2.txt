@@ -1,0 +1,1 @@
+- this is file2 after .gitignore was created and committed to ignore file2. the expected behavior is that this file does not appear in repo.
